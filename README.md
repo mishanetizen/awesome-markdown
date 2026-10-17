@@ -127,6 +127,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Dimer Markdown](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
+- [myskills](https://myskills.info/) - Browser-based Markdown to PDF tool with local preview and server-side rendering. ![Globe][globe]
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
